@@ -8,7 +8,7 @@
 ### 
 * **name**: 송재민
 * **student ID**: 22101183
-* **major**: 컴퓨터공학과
+* **major**: Computer Science and Engineering
 * **email**: songjaemin@seoultech.ac.kr
 
 ---
