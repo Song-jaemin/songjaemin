@@ -1,6 +1,14 @@
-# songjaemin
+# OSS , songjaemin
 
 
-### This repository will serve as a space to manage upcoming assignments and term projects, and to document my learning journey.
+## 👋👋 This repository will serve as a space to manage upcoming assignments and term projects, and to document my learning journey.
 
-* **이메일**: [thdwoals02@seoultech.ac.kr]
+---
+
+### 
+* **name**: 송재민
+* **student ID**: 22101183
+* **major**: 컴퓨터공학과
+* **email**: songjaemin@seoultech.ac.kr
+
+---
